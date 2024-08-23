@@ -15,6 +15,7 @@ public class basics {
 
 	public static void main(String[] args) {
 		
+		
 //		RestAssured.baseURI = "https://rahulshettyacademy.com";
 //		// Given function for input data
 //		given().log().all().queryParam("key", "qaclick123").header("Content-Type","application/json")    //log().all() is used for printing data
